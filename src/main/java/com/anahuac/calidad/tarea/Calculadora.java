@@ -2,7 +2,7 @@ package com.anahuac.calidad.tarea;
 
 public class Calculadora {
 	private double ultimoResultado;
-	
+	//Cambio
 	public double suma(double primerSumando, double segundoSumando){
 		return ultimoResultado = primerSumando + segundoSumando;
 	}

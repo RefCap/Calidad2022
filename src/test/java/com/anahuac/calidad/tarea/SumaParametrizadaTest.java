@@ -14,7 +14,7 @@ import org.junit.runners.Parameterized.Parameters;;
 
 @RunWith(Parameterized.class)
 public class SumaParametrizadaTest {
-
+//cambio
 	private double suma1 = 0.0;
 	private double suma2 = 0.0;
 	private double resultado = 0.0;
